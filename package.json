@@ -9,13 +9,16 @@
   },
   "dependencies": {
     "buffer": "^6.0.3",
+    "datastream-js": "^1.0.7",
     "dayjs": "^1.11.3",
     "idb": "^7.0.2",
     "lodash-es": "^4.17.21",
+    "mp4box": "^0.5.2",
     "pinia": "^2.0.14",
     "vue": "^3.2.25"
   },
   "devDependencies": {
+    "@types/dom-webcodecs": "^0.1.4",
     "@types/lodash-es": "^4.17.6",
     "@vitejs/plugin-vue": "^2.3.3",
     "typescript": "^4.5.4",
